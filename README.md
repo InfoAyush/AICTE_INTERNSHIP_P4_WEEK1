@@ -3,6 +3,7 @@ EV Adoption Prediction – Week 1 Progress
 This repository contains the Week 1 work for the Electric Vehicle (EV) Adoption Prediction project. The goal of this phase was to perform initial data exploration, clean the dataset, and handle issues that may affect model performance in later stages.
 
 🔧 Improvisations & Enhancements
+
 Missing Value Handling
 
 Visualized missing data using a heatmap for clarity.
